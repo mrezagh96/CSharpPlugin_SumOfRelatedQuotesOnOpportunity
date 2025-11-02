@@ -3,9 +3,9 @@ using System.Linq;
 using Microsoft.Xrm.Sdk;
 using Microsoft.Xrm.Sdk.Query;
 
-namespace OpportunityQuoteSumPlugin
+namespace OpportunityQuoteDeductPlugin
 {
-    public class OpportunityQuoteSumPlugin : IPlugin
+    public class OpportunityQuoteDeductPlugin : IPlugin
     {
         public void Execute(IServiceProvider serviceProvider)
         {

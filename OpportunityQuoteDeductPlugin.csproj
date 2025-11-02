@@ -7,8 +7,8 @@
     <ProjectGuid>{CA3ACEB5-F4DA-43A7-8319-2EE572EA9985}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OpportunityQuoteSumPlugin</RootNamespace>
-    <AssemblyName>OpportunityQuoteSumPlugin</AssemblyName>
+    <RootNamespace>OpportunityQuoteDeductPlugin</RootNamespace>
+    <AssemblyName>OpportunityQuoteDeductPlugin</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -83,7 +83,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="OpportunityQuoteSumPlugin.cs" />
+    <Compile Include="OpportunityQuoteDeductPlugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
